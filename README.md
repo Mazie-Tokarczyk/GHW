@@ -1,1 +1,2 @@
-# GHW
+Mazie Tokarczyk
+Git Assignment
